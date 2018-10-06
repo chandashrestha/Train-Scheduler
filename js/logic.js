@@ -256,3 +256,8 @@ document.onkeyup = function() {
     location.reload(true);
   }, 60000);
 };
+
+// Pseudocode:
+// Couldn't figure:
+// As a final challenge, make it so that only users who log into the site with their Google or GitHub accounts can use your site. 
+// You'll need to read up on Firebase authentication for this bonus exercise.
