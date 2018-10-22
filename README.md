@@ -1,5 +1,5 @@
 # Train-Scheduler
-##Firebase Homework
+Firebase Homework
 Link: https://chandashrestha.github.io/Train-Scheduler/
 
 The train schedule application that incorporates Firebase to host arrival and departure data. 
